@@ -54,9 +54,9 @@ esta sección es impartida por profesore aarón montoya, en conjunto con ayudant
 | [09](./00-docentes/sesion-09/README.md)     | 05-15 | repaso y anteproyecto  |
 | [10](./00-docentes/sesion-10/README.md)     | 05-22 | solemne 2              |
 | [11](./00-docentes/sesion-11/README.md)     | 05-29 | color y computación    |
-| [12](./00-docentes/sesion-12/README.md)     | 06-05 | funciones              |
-| [13](./00-docentes/sesion-13/README.md)     | 06-12 | interactividad         |
-| [14](./00-docentes/sesion-14/README.md)     | 06-19 | aleatoreidad           |
+| [12](./00-docentes/sesion-12/README.md)     | 06-05 | interactividad         |
+| [13](./00-docentes/sesion-13/README.md)     | 06-12 | HTML y web estática    |
+| [14](./00-docentes/sesion-14/README.md)     | 06-19 | anteproyecto           |
 | [15](./00-docentes/sesion-15/README.md)     | 06-26 | examen                 |
 
 ## evaluaciones
