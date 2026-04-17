@@ -1,6 +1,6 @@
 # sesion-01
 
-##subtitulo
+## subtitulo
 
 hola
 
