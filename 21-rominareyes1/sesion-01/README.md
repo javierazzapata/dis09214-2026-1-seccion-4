@@ -2,12 +2,7 @@
 
 ## un subitulo
 
-parrafo
+TRAUMAS
 
-haiku
-
-aqui
-
-en la faad
-
+con esta imagen
 ![texto que explica la imagen](./foto.jpg)
